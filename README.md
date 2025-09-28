@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yousef GAmal</h1>
+<h1 align="center">Hi 👋, I'm Yousef Gamal</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 - 🔭 I’m currently working on **Remain**
